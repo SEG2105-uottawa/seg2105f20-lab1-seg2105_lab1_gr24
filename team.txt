@@ -1,2 +1,4 @@
-Team Members:
+Team Members
+++++++++++++++
 Chris Hamilton
+Akarsh Gharge
