@@ -1,1 +1,2 @@
-# seg2105f20-lab1-seg2105_lab1_gr24
+This is Lab 1 for SEG2105
+Group members are Chris Hamilton and Akarsh Gharge
