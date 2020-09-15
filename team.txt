@@ -1,6 +1,2 @@
 Team Members:
-<<<<<<< HEAD
-Akarsh G
-=======
 Chris Hamilton
->>>>>>> d73d2998292bc457672ac39ad579a6e90e8e40d9
